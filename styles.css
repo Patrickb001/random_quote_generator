@@ -50,7 +50,7 @@ h1 {
   font-size: 1rem;
   padding: 0.5rem;
   border-radius: 7px;
-  background-color: skyblue;
+  background-color: rgba(177, 242, 185);
   cursor: pointer;
   color: #08150a;
   transition: 0.08s transform ease-in-out;
@@ -61,7 +61,7 @@ h1 {
 
 #author {
   position: absolute;
-  bottom: 30%;
+  bottom: 29.5%;
   right: 10%;
 }
 #author-name {
